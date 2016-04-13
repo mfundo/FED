@@ -61,7 +61,7 @@ CSS declarations must be on multiple lines, reasoning is the same as HTML attrib
  
 When using SASS keep your nesting **3 levels** deep at most.
  
-**Alphabetically sort** your attributes, this also makes it easier to find attributes and just sounds right :). Alternatively group your attributes by layout, design etc.
+**Alphabetically sort** your attributes, this also makes it easier to find attributes and just sounds right :). Alternatively group your attributes by layout, design etc. Whichever way you choose just be consistent.
  
 ### Reset vs Normalisation
  
